@@ -455,5 +455,5 @@ di sini saya sudah menyiapkan kodingannya:
 
 https://github.com/Febriyaninurhida123/mobile_programming_TGS9/assets/90132092/8a2c666c-e43f-4abb-b1cc-a858eacdaed6
 
-
+## SEKIAN DAN TERIMA KASIH :)
 
