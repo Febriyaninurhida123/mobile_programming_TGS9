@@ -279,6 +279,8 @@ di sini namanya activity_all_project, anda bisa menyesuaikan dengan nama xm anda
 ini design nya, sederhana hehe...
 
 <img width="237" alt="image" src="https://github.com/Febriyaninurhida123/mobile_programming_TGS9/assets/90132092/8d13ff62-40b4-4293-8acc-e32a061b7486">
+
+
 # 4. lalu atur MainActivity (MainActivity.java) 
 karena saya sudah membuat activity sebelumnya untuk masing-masing project maka tinggal edit mainactivitynya tidak usah bikin activity satu-satu lagi:
 Di sini, kita akan menampilkan daftar project dan menangani eksplicit intent. nama saya AllProjectActivity, kalian bisa menyesuaikan dengan nama kalian.
