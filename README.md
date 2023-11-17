@@ -276,6 +276,9 @@ di sini namanya activity_all_project, anda bisa menyesuaikan dengan nama xm anda
 ```
 <img width="1080" alt="image" src="https://github.com/Febriyaninurhida123/mobile_programming_TGS9/assets/90132092/f04dc2fd-f23a-4e59-b743-cc51927c8c19">
 
+ini design nya, sederhana hehe...
+
+<img width="237" alt="image" src="https://github.com/Febriyaninurhida123/mobile_programming_TGS9/assets/90132092/8d13ff62-40b4-4293-8acc-e32a061b7486">
 # 4. lalu atur MainActivity (MainActivity.java) 
 karena saya sudah membuat activity sebelumnya untuk masing-masing project maka tinggal edit mainactivitynya tidak usah bikin activity satu-satu lagi:
 Di sini, kita akan menampilkan daftar project dan menangani eksplicit intent. nama saya AllProjectActivity, kalian bisa menyesuaikan dengan nama kalian.
@@ -354,9 +357,6 @@ public class AllProjectActivity extends AppCompatActivity {
 ```
 
 <img width="1079" alt="image" src="https://github.com/Febriyaninurhida123/mobile_programming_TGS9/assets/90132092/7feffd44-4b1d-4ecd-8204-eaa9e547c21d">
-ini design nya, sederhana hehe...
-
-<img width="237" alt="image" src="https://github.com/Febriyaninurhida123/mobile_programming_TGS9/assets/90132092/8d13ff62-40b4-4293-8acc-e32a061b7486">
 
 
 # 5. berikutnya adalah untuk mengedit file manifest untuk aplikasi Android dengan SplashScreenActivity dan MainActivity yang akan memulai tujuh project menggunakan eksplicit dan implisit intent:
