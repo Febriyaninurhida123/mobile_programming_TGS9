@@ -453,5 +453,4 @@ di sini saya sudah menyiapkan kodingannya:
 
 # 6. jika sudah sekarang kita bisa mencoba me launch aplikasinya :
 
-
-
+Screen_recording_20231117_225239.mp4
