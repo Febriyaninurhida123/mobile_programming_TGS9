@@ -452,5 +452,6 @@ di sini saya sudah menyiapkan kodingannya:
 <img width="1079" alt="image" src="https://github.com/Febriyaninurhida123/mobile_programming_TGS9/assets/90132092/6c7af851-1e97-4c5c-b09c-6bff3dfcebe2">
 
 # 6. jika sudah sekarang kita bisa mencoba me launch aplikasinya :
+<https://github.com/Febriyaninurhida123/mobile_programming_TGS9/videos/Screen_recording_20231117_225239.mp4>
 
-Screen_recording_20231117_225239.mp4
+
